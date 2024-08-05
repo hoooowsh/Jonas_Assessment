@@ -1,0 +1,87 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/shawnhao/Desktop/Projects/Assessments/Jonas/Jonas_Assessment/BusinessLayer/BusinessLayer.csproj": {}
+  },
+  "projects": {
+    "/Users/shawnhao/Desktop/Projects/Assessments/Jonas/Jonas_Assessment/BusinessLayer.Model/BusinessLayer.Model.csproj": {
+      "restore": {
+        "projectUniqueName": "/Users/shawnhao/Desktop/Projects/Assessments/Jonas/Jonas_Assessment/BusinessLayer.Model/BusinessLayer.Model.csproj",
+        "projectName": "BusinessLayer.Model",
+        "projectPath": "/Users/shawnhao/Desktop/Projects/Assessments/Jonas/Jonas_Assessment/BusinessLayer.Model/BusinessLayer.Model.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "/Users/shawnhao/Desktop/Projects/Assessments/Jonas/Jonas_Assessment/BusinessLayer/BusinessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/shawnhao/Desktop/Projects/Assessments/Jonas/Jonas_Assessment/BusinessLayer/BusinessLayer.csproj",
+        "projectName": "BusinessLayer",
+        "projectPath": "/Users/shawnhao/Desktop/Projects/Assessments/Jonas/Jonas_Assessment/BusinessLayer/BusinessLayer.csproj",
+        "packagesPath": "/Users/shawnhao/.nuget/packages/",
+        "outputPath": "/Users/shawnhao/Desktop/Projects/Assessments/Jonas/Jonas_Assessment/BusinessLayer/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/shawnhao/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net40": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/shawnhao/Desktop/Projects/Assessments/Jonas/Jonas_Assessment/BusinessLayer.Model/BusinessLayer.Model.csproj": {
+                "projectPath": "/Users/shawnhao/Desktop/Projects/Assessments/Jonas/Jonas_Assessment/BusinessLayer.Model/BusinessLayer.Model.csproj"
+              },
+              "/Users/shawnhao/Desktop/Projects/Assessments/Jonas/Jonas_Assessment/DataLayer.Model/DataAccessLayer.Model.csproj": {
+                "projectPath": "/Users/shawnhao/Desktop/Projects/Assessments/Jonas/Jonas_Assessment/DataLayer.Model/DataAccessLayer.Model.csproj"
+              }
+            }
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net40": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            }
+          }
+        }
+      }
+    },
+    "/Users/shawnhao/Desktop/Projects/Assessments/Jonas/Jonas_Assessment/DataLayer.Model/DataAccessLayer.Model.csproj": {
+      "restore": {
+        "projectUniqueName": "/Users/shawnhao/Desktop/Projects/Assessments/Jonas/Jonas_Assessment/DataLayer.Model/DataAccessLayer.Model.csproj",
+        "projectName": "DataAccessLayer.Model",
+        "projectPath": "/Users/shawnhao/Desktop/Projects/Assessments/Jonas/Jonas_Assessment/DataLayer.Model/DataAccessLayer.Model.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

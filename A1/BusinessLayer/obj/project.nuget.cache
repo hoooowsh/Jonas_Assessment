@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "6RG36YA/oEo=",
+  "success": false,
+  "projectFilePath": "/Users/shawnhao/Desktop/Projects/Assessments/Jonas/Jonas_Assessment/BusinessLayer/BusinessLayer.csproj",
+  "expectedPackageFiles": [
+    "/Users/shawnhao/.nuget/packages/automapper/7.0.1/automapper.7.0.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package AutoMapper 7.0.1 is not compatible with net40 (.NETFramework,Version=v4.0). Package AutoMapper 7.0.1 supports:\n  - net45 (.NETFramework,Version=v4.5)\n  - netcoreapp2.0 (.NETCoreApp,Version=v2.0)\n  - netstandard1.3 (.NETStandard,Version=v1.3)\n  - netstandard2.0 (.NETStandard,Version=v2.0)",
+      "libraryId": "AutoMapper",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.0"
+      ]
+    }
+  ]
+}
