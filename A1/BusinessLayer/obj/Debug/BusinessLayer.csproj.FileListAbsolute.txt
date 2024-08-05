@@ -1,0 +1,15 @@
+C:\Users\haosh\Desktop\jonas\Jonas_Assessment\A1\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\haosh\Desktop\jonas\Jonas_Assessment\A1\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\haosh\Desktop\jonas\Jonas_Assessment\A1\BusinessLayer\bin\Debug\AutoMapper.dll
+C:\Users\haosh\Desktop\jonas\Jonas_Assessment\A1\BusinessLayer\bin\Debug\AutoMapper.pdb
+C:\Users\haosh\Desktop\jonas\Jonas_Assessment\A1\BusinessLayer\bin\Debug\System.ValueTuple.dll
+C:\Users\haosh\Desktop\jonas\Jonas_Assessment\A1\BusinessLayer\bin\Debug\BusinessLayer.Model.dll
+C:\Users\haosh\Desktop\jonas\Jonas_Assessment\A1\BusinessLayer\bin\Debug\DataAccessLayer.Model.dll
+C:\Users\haosh\Desktop\jonas\Jonas_Assessment\A1\BusinessLayer\bin\Debug\BusinessLayer.Model.pdb
+C:\Users\haosh\Desktop\jonas\Jonas_Assessment\A1\BusinessLayer\bin\Debug\DataAccessLayer.Model.pdb
+C:\Users\haosh\Desktop\jonas\Jonas_Assessment\A1\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\haosh\Desktop\jonas\Jonas_Assessment\A1\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\haosh\Desktop\jonas\Jonas_Assessment\A1\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\haosh\Desktop\jonas\Jonas_Assessment\A1\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\haosh\Desktop\jonas\Jonas_Assessment\A1\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\haosh\Desktop\jonas\Jonas_Assessment\A1\BusinessLayer\bin\Debug\Newtonsoft.Json.dll

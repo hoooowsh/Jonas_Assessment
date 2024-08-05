@@ -1,14 +1,14 @@
 {
   "format": 1,
   "restore": {
-    "/Users/shawnhao/Desktop/Projects/Assessments/Jonas/Jonas_Assessment/BusinessLayer/BusinessLayer.csproj": {}
+    "C:\\Users\\haosh\\Desktop\\jonas\\Jonas_Assessment\\A1\\BusinessLayer\\BusinessLayer.csproj": {}
   },
   "projects": {
-    "/Users/shawnhao/Desktop/Projects/Assessments/Jonas/Jonas_Assessment/BusinessLayer.Model/BusinessLayer.Model.csproj": {
+    "C:\\Users\\haosh\\Desktop\\jonas\\Jonas_Assessment\\A1\\BusinessLayer.Model\\BusinessLayer.Model.csproj": {
       "restore": {
-        "projectUniqueName": "/Users/shawnhao/Desktop/Projects/Assessments/Jonas/Jonas_Assessment/BusinessLayer.Model/BusinessLayer.Model.csproj",
+        "projectUniqueName": "C:\\Users\\haosh\\Desktop\\jonas\\Jonas_Assessment\\A1\\BusinessLayer.Model\\BusinessLayer.Model.csproj",
         "projectName": "BusinessLayer.Model",
-        "projectPath": "/Users/shawnhao/Desktop/Projects/Assessments/Jonas/Jonas_Assessment/BusinessLayer.Model/BusinessLayer.Model.csproj",
+        "projectPath": "C:\\Users\\haosh\\Desktop\\jonas\\Jonas_Assessment\\A1\\BusinessLayer.Model\\BusinessLayer.Model.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {}
@@ -19,60 +19,75 @@
         "net472": {}
       }
     },
-    "/Users/shawnhao/Desktop/Projects/Assessments/Jonas/Jonas_Assessment/BusinessLayer/BusinessLayer.csproj": {
+    "C:\\Users\\haosh\\Desktop\\jonas\\Jonas_Assessment\\A1\\BusinessLayer\\BusinessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/shawnhao/Desktop/Projects/Assessments/Jonas/Jonas_Assessment/BusinessLayer/BusinessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\haosh\\Desktop\\jonas\\Jonas_Assessment\\A1\\BusinessLayer\\BusinessLayer.csproj",
         "projectName": "BusinessLayer",
-        "projectPath": "/Users/shawnhao/Desktop/Projects/Assessments/Jonas/Jonas_Assessment/BusinessLayer/BusinessLayer.csproj",
-        "packagesPath": "/Users/shawnhao/.nuget/packages/",
-        "outputPath": "/Users/shawnhao/Desktop/Projects/Assessments/Jonas/Jonas_Assessment/BusinessLayer/obj/",
+        "projectPath": "C:\\Users\\haosh\\Desktop\\jonas\\Jonas_Assessment\\A1\\BusinessLayer\\BusinessLayer.csproj",
+        "packagesPath": "C:\\Users\\haosh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\haosh\\Desktop\\jonas\\Jonas_Assessment\\A1\\BusinessLayer\\obj\\",
         "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "D:\\VS Tools\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/shawnhao/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\haosh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net472"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net40": {
-            "targetAlias": "net6.0",
+          "net472": {
             "projectReferences": {
-              "/Users/shawnhao/Desktop/Projects/Assessments/Jonas/Jonas_Assessment/BusinessLayer.Model/BusinessLayer.Model.csproj": {
-                "projectPath": "/Users/shawnhao/Desktop/Projects/Assessments/Jonas/Jonas_Assessment/BusinessLayer.Model/BusinessLayer.Model.csproj"
+              "C:\\Users\\haosh\\Desktop\\jonas\\Jonas_Assessment\\A1\\BusinessLayer.Model\\BusinessLayer.Model.csproj": {
+                "projectPath": "C:\\Users\\haosh\\Desktop\\jonas\\Jonas_Assessment\\A1\\BusinessLayer.Model\\BusinessLayer.Model.csproj"
               },
-              "/Users/shawnhao/Desktop/Projects/Assessments/Jonas/Jonas_Assessment/DataLayer.Model/DataAccessLayer.Model.csproj": {
-                "projectPath": "/Users/shawnhao/Desktop/Projects/Assessments/Jonas/Jonas_Assessment/DataLayer.Model/DataAccessLayer.Model.csproj"
+              "C:\\Users\\haosh\\Desktop\\jonas\\Jonas_Assessment\\A1\\DataLayer.Model\\DataAccessLayer.Model.csproj": {
+                "projectPath": "C:\\Users\\haosh\\Desktop\\jonas\\Jonas_Assessment\\A1\\DataLayer.Model\\DataAccessLayer.Model.csproj"
               }
             }
           }
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
-        "net40": {
-          "targetAlias": "net6.0",
+        "net472": {
           "dependencies": {
             "AutoMapper": {
               "target": "Package",
               "version": "[7.0.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
             }
           }
         }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
       }
     },
-    "/Users/shawnhao/Desktop/Projects/Assessments/Jonas/Jonas_Assessment/DataLayer.Model/DataAccessLayer.Model.csproj": {
+    "C:\\Users\\haosh\\Desktop\\jonas\\Jonas_Assessment\\A1\\DataLayer.Model\\DataAccessLayer.Model.csproj": {
       "restore": {
-        "projectUniqueName": "/Users/shawnhao/Desktop/Projects/Assessments/Jonas/Jonas_Assessment/DataLayer.Model/DataAccessLayer.Model.csproj",
+        "projectUniqueName": "C:\\Users\\haosh\\Desktop\\jonas\\Jonas_Assessment\\A1\\DataLayer.Model\\DataAccessLayer.Model.csproj",
         "projectName": "DataAccessLayer.Model",
-        "projectPath": "/Users/shawnhao/Desktop/Projects/Assessments/Jonas/Jonas_Assessment/DataLayer.Model/DataAccessLayer.Model.csproj",
+        "projectPath": "C:\\Users\\haosh\\Desktop\\jonas\\Jonas_Assessment\\A1\\DataLayer.Model\\DataAccessLayer.Model.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {}

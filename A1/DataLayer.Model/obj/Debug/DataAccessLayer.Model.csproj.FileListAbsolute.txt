@@ -1,0 +1,5 @@
+C:\Users\haosh\Desktop\jonas\Jonas_Assessment\A1\DataLayer.Model\bin\Debug\DataAccessLayer.Model.dll
+C:\Users\haosh\Desktop\jonas\Jonas_Assessment\A1\DataLayer.Model\bin\Debug\DataAccessLayer.Model.pdb
+C:\Users\haosh\Desktop\jonas\Jonas_Assessment\A1\DataLayer.Model\obj\Debug\DataAccessLayer.Model.csproj.CoreCompileInputs.cache
+C:\Users\haosh\Desktop\jonas\Jonas_Assessment\A1\DataLayer.Model\obj\Debug\DataAccessLayer.Model.dll
+C:\Users\haosh\Desktop\jonas\Jonas_Assessment\A1\DataLayer.Model\obj\Debug\DataAccessLayer.Model.pdb
