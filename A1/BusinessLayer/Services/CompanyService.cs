@@ -30,13 +30,14 @@ namespace BusinessLayer.Services
             return _mapper.Map<CompanyInfo>(result); 
         }
 
-        public async Task CreateCompany(string value)
+        public async Task CreateCompany(object value)
         {
-            var company = _mapper.Map<Company>(value);
+            CompanyInfo companyInfo = _mapper.Map<CompanyInfo>(value);
+            Company company = _mapper.Map<Company>(companyInfo);
             _companyRepository.SaveCompany(company);
         }
 
-        public async Task UpdateCompany(int id, string value)
+        public async Task UpdateCompany(int id, object value)
         {
 
         }

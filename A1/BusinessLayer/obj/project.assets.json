@@ -358,11 +358,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\haosh\\Desktop\\jonas\\Jonas_Assessment\\A1\\BusinessLayer\\BusinessLayer.csproj",
+      "projectUniqueName": "C:\\Users\\haosh\\Desktop\\Jonas_Assessment\\A1\\BusinessLayer\\BusinessLayer.csproj",
       "projectName": "BusinessLayer",
-      "projectPath": "C:\\Users\\haosh\\Desktop\\jonas\\Jonas_Assessment\\A1\\BusinessLayer\\BusinessLayer.csproj",
+      "projectPath": "C:\\Users\\haosh\\Desktop\\Jonas_Assessment\\A1\\BusinessLayer\\BusinessLayer.csproj",
       "packagesPath": "C:\\Users\\haosh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\haosh\\Desktop\\jonas\\Jonas_Assessment\\A1\\BusinessLayer\\obj\\",
+      "outputPath": "C:\\Users\\haosh\\Desktop\\Jonas_Assessment\\A1\\BusinessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -383,11 +383,11 @@
       "frameworks": {
         "net472": {
           "projectReferences": {
-            "C:\\Users\\haosh\\Desktop\\jonas\\Jonas_Assessment\\A1\\BusinessLayer.Model\\BusinessLayer.Model.csproj": {
-              "projectPath": "C:\\Users\\haosh\\Desktop\\jonas\\Jonas_Assessment\\A1\\BusinessLayer.Model\\BusinessLayer.Model.csproj"
+            "C:\\Users\\haosh\\Desktop\\Jonas_Assessment\\A1\\BusinessLayer.Model\\BusinessLayer.Model.csproj": {
+              "projectPath": "C:\\Users\\haosh\\Desktop\\Jonas_Assessment\\A1\\BusinessLayer.Model\\BusinessLayer.Model.csproj"
             },
-            "C:\\Users\\haosh\\Desktop\\jonas\\Jonas_Assessment\\A1\\DataLayer.Model\\DataAccessLayer.Model.csproj": {
-              "projectPath": "C:\\Users\\haosh\\Desktop\\jonas\\Jonas_Assessment\\A1\\DataLayer.Model\\DataAccessLayer.Model.csproj"
+            "C:\\Users\\haosh\\Desktop\\Jonas_Assessment\\A1\\DataLayer.Model\\DataAccessLayer.Model.csproj": {
+              "projectPath": "C:\\Users\\haosh\\Desktop\\Jonas_Assessment\\A1\\DataLayer.Model\\DataAccessLayer.Model.csproj"
             }
           }
         }

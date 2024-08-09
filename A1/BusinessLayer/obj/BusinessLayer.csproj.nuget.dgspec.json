@@ -1,14 +1,14 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\haosh\\Desktop\\jonas\\Jonas_Assessment\\A1\\BusinessLayer\\BusinessLayer.csproj": {}
+    "C:\\Users\\haosh\\Desktop\\Jonas_Assessment\\A1\\BusinessLayer\\BusinessLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\haosh\\Desktop\\jonas\\Jonas_Assessment\\A1\\BusinessLayer.Model\\BusinessLayer.Model.csproj": {
+    "C:\\Users\\haosh\\Desktop\\Jonas_Assessment\\A1\\BusinessLayer.Model\\BusinessLayer.Model.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\haosh\\Desktop\\jonas\\Jonas_Assessment\\A1\\BusinessLayer.Model\\BusinessLayer.Model.csproj",
+        "projectUniqueName": "C:\\Users\\haosh\\Desktop\\Jonas_Assessment\\A1\\BusinessLayer.Model\\BusinessLayer.Model.csproj",
         "projectName": "BusinessLayer.Model",
-        "projectPath": "C:\\Users\\haosh\\Desktop\\jonas\\Jonas_Assessment\\A1\\BusinessLayer.Model\\BusinessLayer.Model.csproj",
+        "projectPath": "C:\\Users\\haosh\\Desktop\\Jonas_Assessment\\A1\\BusinessLayer.Model\\BusinessLayer.Model.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {}
@@ -19,14 +19,14 @@
         "net472": {}
       }
     },
-    "C:\\Users\\haosh\\Desktop\\jonas\\Jonas_Assessment\\A1\\BusinessLayer\\BusinessLayer.csproj": {
+    "C:\\Users\\haosh\\Desktop\\Jonas_Assessment\\A1\\BusinessLayer\\BusinessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\haosh\\Desktop\\jonas\\Jonas_Assessment\\A1\\BusinessLayer\\BusinessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\haosh\\Desktop\\Jonas_Assessment\\A1\\BusinessLayer\\BusinessLayer.csproj",
         "projectName": "BusinessLayer",
-        "projectPath": "C:\\Users\\haosh\\Desktop\\jonas\\Jonas_Assessment\\A1\\BusinessLayer\\BusinessLayer.csproj",
+        "projectPath": "C:\\Users\\haosh\\Desktop\\Jonas_Assessment\\A1\\BusinessLayer\\BusinessLayer.csproj",
         "packagesPath": "C:\\Users\\haosh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\haosh\\Desktop\\jonas\\Jonas_Assessment\\A1\\BusinessLayer\\obj\\",
+        "outputPath": "C:\\Users\\haosh\\Desktop\\Jonas_Assessment\\A1\\BusinessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -47,11 +47,11 @@
         "frameworks": {
           "net472": {
             "projectReferences": {
-              "C:\\Users\\haosh\\Desktop\\jonas\\Jonas_Assessment\\A1\\BusinessLayer.Model\\BusinessLayer.Model.csproj": {
-                "projectPath": "C:\\Users\\haosh\\Desktop\\jonas\\Jonas_Assessment\\A1\\BusinessLayer.Model\\BusinessLayer.Model.csproj"
+              "C:\\Users\\haosh\\Desktop\\Jonas_Assessment\\A1\\BusinessLayer.Model\\BusinessLayer.Model.csproj": {
+                "projectPath": "C:\\Users\\haosh\\Desktop\\Jonas_Assessment\\A1\\BusinessLayer.Model\\BusinessLayer.Model.csproj"
               },
-              "C:\\Users\\haosh\\Desktop\\jonas\\Jonas_Assessment\\A1\\DataLayer.Model\\DataAccessLayer.Model.csproj": {
-                "projectPath": "C:\\Users\\haosh\\Desktop\\jonas\\Jonas_Assessment\\A1\\DataLayer.Model\\DataAccessLayer.Model.csproj"
+              "C:\\Users\\haosh\\Desktop\\Jonas_Assessment\\A1\\DataLayer.Model\\DataAccessLayer.Model.csproj": {
+                "projectPath": "C:\\Users\\haosh\\Desktop\\Jonas_Assessment\\A1\\DataLayer.Model\\DataAccessLayer.Model.csproj"
               }
             }
           }
@@ -83,11 +83,11 @@
         }
       }
     },
-    "C:\\Users\\haosh\\Desktop\\jonas\\Jonas_Assessment\\A1\\DataLayer.Model\\DataAccessLayer.Model.csproj": {
+    "C:\\Users\\haosh\\Desktop\\Jonas_Assessment\\A1\\DataLayer.Model\\DataAccessLayer.Model.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\haosh\\Desktop\\jonas\\Jonas_Assessment\\A1\\DataLayer.Model\\DataAccessLayer.Model.csproj",
+        "projectUniqueName": "C:\\Users\\haosh\\Desktop\\Jonas_Assessment\\A1\\DataLayer.Model\\DataAccessLayer.Model.csproj",
         "projectName": "DataAccessLayer.Model",
-        "projectPath": "C:\\Users\\haosh\\Desktop\\jonas\\Jonas_Assessment\\A1\\DataLayer.Model\\DataAccessLayer.Model.csproj",
+        "projectPath": "C:\\Users\\haosh\\Desktop\\Jonas_Assessment\\A1\\DataLayer.Model\\DataAccessLayer.Model.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {}

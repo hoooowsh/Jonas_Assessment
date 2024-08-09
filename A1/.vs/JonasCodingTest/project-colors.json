@@ -15,7 +15,27 @@
       "ProjectGuid": "643e46fe-7bba-4b04-b52d-581d135574a8",
       "DisplayName": "BusinessLayer",
       "ColorIndex": 1
+    },
+    "71013a3b-8d62-483a-ad6b-0ff1a9781ca6": {
+      "ProjectGuid": "71013a3b-8d62-483a-ad6b-0ff1a9781ca6",
+      "DisplayName": "BusinessLayer.Model",
+      "ColorIndex": 2
+    },
+    "c2fd50a5-7ea4-4e04-a83c-6ade79183bef": {
+      "ProjectGuid": "c2fd50a5-7ea4-4e04-a83c-6ade79183bef",
+      "DisplayName": "DataAccessLayer",
+      "ColorIndex": 3
+    },
+    "44867c7e-02d8-40a2-b2c4-0463f31b945e": {
+      "ProjectGuid": "44867c7e-02d8-40a2-b2c4-0463f31b945e",
+      "DisplayName": "DataAccessLayer.Model",
+      "ColorIndex": 4
+    },
+    "2e1f5e82-f3b5-4ceb-849f-6a50b1027576": {
+      "ProjectGuid": "2e1f5e82-f3b5-4ceb-849f-6a50b1027576",
+      "DisplayName": "BusinessLayer",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 6
 }

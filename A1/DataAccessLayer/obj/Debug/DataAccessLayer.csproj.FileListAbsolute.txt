@@ -7,3 +7,12 @@ C:\Users\haosh\Desktop\jonas\Jonas_Assessment\A1\DataAccessLayer\obj\Debug\DataA
 C:\Users\haosh\Desktop\jonas\Jonas_Assessment\A1\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
 C:\Users\haosh\Desktop\jonas\Jonas_Assessment\A1\DataAccessLayer\obj\Debug\DataAccessLayer.dll
 C:\Users\haosh\Desktop\jonas\Jonas_Assessment\A1\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\haosh\Desktop\Jonas_Assessment\A1\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\haosh\Desktop\Jonas_Assessment\A1\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\haosh\Desktop\Jonas_Assessment\A1\DataAccessLayer\bin\Debug\DataAccessLayer.Model.dll
+C:\Users\haosh\Desktop\Jonas_Assessment\A1\DataAccessLayer\bin\Debug\DataAccessLayer.Model.pdb
+C:\Users\haosh\Desktop\Jonas_Assessment\A1\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\haosh\Desktop\Jonas_Assessment\A1\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\haosh\Desktop\Jonas_Assessment\A1\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\haosh\Desktop\Jonas_Assessment\A1\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\haosh\Desktop\Jonas_Assessment\A1\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

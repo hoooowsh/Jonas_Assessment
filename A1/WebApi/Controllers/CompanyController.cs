@@ -4,6 +4,7 @@ using System.Threading.Tasks;
 using System.Web.Http;
 using AutoMapper;
 using BusinessLayer.Model.Interfaces;
+using Microsoft.AspNetCore.Mvc;
 using WebApi.Models;
 
 namespace WebApi.Controllers
@@ -33,16 +34,16 @@ namespace WebApi.Controllers
         }
 
         // POST api/<controller>
-        public async Task Post([FromBody] string value)
+        public async Task<bool> Post([FromBody] object value)
         {
             try
             {
                 await _companyService.CreateCompany(value);
-                return;
+                return true;
             }
             catch (Exception ex)
             {
-                
+                return false;
             }
         }
 

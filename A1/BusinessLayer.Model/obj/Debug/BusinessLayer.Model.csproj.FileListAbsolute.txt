@@ -4,3 +4,9 @@ C:\Users\haosh\Desktop\jonas\Jonas_Assessment\A1\BusinessLayer.Model\obj\Debug\B
 C:\Users\haosh\Desktop\jonas\Jonas_Assessment\A1\BusinessLayer.Model\obj\Debug\BusinessLayer.Model.dll
 C:\Users\haosh\Desktop\jonas\Jonas_Assessment\A1\BusinessLayer.Model\obj\Debug\BusinessLayer.Model.pdb
 C:\Users\haosh\Desktop\jonas\Jonas_Assessment\A1\BusinessLayer.Model\obj\Debug\BusinessLayer.Model.csproj.AssemblyReference.cache
+C:\Users\haosh\Desktop\Jonas_Assessment\A1\BusinessLayer.Model\bin\Debug\BusinessLayer.Model.dll
+C:\Users\haosh\Desktop\Jonas_Assessment\A1\BusinessLayer.Model\bin\Debug\BusinessLayer.Model.pdb
+C:\Users\haosh\Desktop\Jonas_Assessment\A1\BusinessLayer.Model\obj\Debug\BusinessLayer.Model.csproj.AssemblyReference.cache
+C:\Users\haosh\Desktop\Jonas_Assessment\A1\BusinessLayer.Model\obj\Debug\BusinessLayer.Model.csproj.CoreCompileInputs.cache
+C:\Users\haosh\Desktop\Jonas_Assessment\A1\BusinessLayer.Model\obj\Debug\BusinessLayer.Model.dll
+C:\Users\haosh\Desktop\Jonas_Assessment\A1\BusinessLayer.Model\obj\Debug\BusinessLayer.Model.pdb

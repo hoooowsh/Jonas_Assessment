@@ -8,8 +8,8 @@ namespace BusinessLayer.Model.Interfaces
     {
         Task<IEnumerable<CompanyInfo>> GetAllCompanies();
         Task<CompanyInfo> GetCompanyByCode(string companyCode);
-        Task CreateCompany(string value);
-        Task UpdateCompany(int id, string value);
+        Task CreateCompany(object value);
+        Task UpdateCompany(int id, object value);
         Task DeleteCompany(int id);
     }
 }
